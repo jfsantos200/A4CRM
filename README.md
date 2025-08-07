@@ -33,28 +33,23 @@ npm o yarn
 🛠️ Instalación
 Instala las dependencias:
 
-bash
-Copiar
-Editar
+
 npm install
 # o
 yarn install
 Inicia el servidor de desarrollo:
 
-bash
-Copiar
-Editar
+
 npm start
 # o
 yarn start
+
 <img width="686" height="388" alt="image" src="https://github.com/user-attachments/assets/5140df15-46a0-4e0e-8ee2-5123ee72892f" />
 
 🧩 Agregar rutas
 Para agregar nuevas rutas a la aplicación, actualiza el archivo Routes.jsx:
 
 jsx
-Copiar
-Editar
 import { useRoutes } from "react-router-dom";
 import HomePage from "pages/HomePage";
 import AboutPage from "pages/AboutPage";
