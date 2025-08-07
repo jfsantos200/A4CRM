@@ -47,24 +47,8 @@ Editar
 npm start
 # o
 yarn start
-📁 Estructura del proyecto
-bash
-Copiar
-Editar
-react_app/
-├── public/             # Recursos estáticos
-├── src/
-│   ├── components/     # Componentes reutilizables de UI
-│   ├── pages/          # Componentes de página
-│   ├── styles/         # Estilos globales y configuración de Tailwind
-│   ├── App.jsx         # Componente principal de la aplicación
-│   ├── Routes.jsx      # Enrutamiento de la aplicación
-│   └── index.jsx       # Punto de entrada de la app
-├── .env                # Variables de entorno
-├── index.html          # Plantilla HTML
-├── package.json        # Dependencias y scripts del proyecto
-├── tailwind.config.js  # Configuración de Tailwind CSS
-└── vite.config.js      # Configuración de Vite
+<img width="686" height="388" alt="image" src="https://github.com/user-attachments/assets/5140df15-46a0-4e0e-8ee2-5123ee72892f" />
+
 🧩 Agregar rutas
 Para agregar nuevas rutas a la aplicación, actualiza el archivo Routes.jsx:
 
